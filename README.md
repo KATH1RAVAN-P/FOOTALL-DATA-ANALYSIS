@@ -8,7 +8,7 @@
 ## 📌 Project Title
 ### **Decoding Football with Data**
 
-🎓 **By:** Kathiravan P  
+🎓 **By:** KATHIRAVAN P 
  
 
 ---
@@ -122,19 +122,18 @@ We used **Python, MySQL, Excel, and Tableau** to:
 - 📢 **Marketing insights** from attendance and fan behavior
 
 ---
+### 🟡 Referee Analysis
 
+![Referee Analysis](referee%20analysis.png)
 
----
+### 🔁 Substitution and Event Insight
 
-## 📁 Folder Structure (Suggested)
-📁 Football-Data-Analysis
-├── 📂 data
-├── 📂 notebooks
-├── 📂 images
-├── 📂 sql
-├── 📂 tableau
-├── README.md
-└── requirements.txt
+![Substitution Analysis](substitution%20%26%20event%20analysis.png)
+
+### 🏟️ Team and Competition Analysis
+
+![Team and Competition](team%20and%20competition%20analysis.png)
+
 
 ---
 
